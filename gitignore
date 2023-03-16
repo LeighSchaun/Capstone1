@@ -1,0 +1,16 @@
+# .gitignore file for a Django project
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+*.egg-info/
+*.egg
+*.DS_Store
+*.log
+*.bak
+*.sqlite3
+*.pyc
+*.bak
+*.swp
+venv/
